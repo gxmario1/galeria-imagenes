@@ -1,6 +1,6 @@
 {
   "name": "galeria-imagenes",
-  "homepage": "http://gxmario1.github.io/<galeria-imagenes>",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
